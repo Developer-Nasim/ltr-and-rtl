@@ -782,22 +782,7 @@ table tr th:first-child{
 }
 
 
-
-
-
-.compareallplans {
-  height: 0;
-  overflow: hidden;
-}
-.compareallplans.show {
-  height: auto;
-  overflow: visible;
-}
-button.theme-btn.compareplans {
-  margin-top: 20px;
-}
-
-
+ 
 
 
 

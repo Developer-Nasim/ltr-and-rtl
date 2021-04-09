@@ -29,12 +29,7 @@
     planBtn.addEventListener('click', () => {
       PlanMainDiv.classList.toggle('monthly')
     })
-
-    let plansSection = document.querySelector('.compareallplans')
-    let compare = document.querySelector('.compareplans')
-    compare.addEventListener('click', () => {
-      plansSection.classList.toggle('show')
-    })
+ 
 
 
   }
