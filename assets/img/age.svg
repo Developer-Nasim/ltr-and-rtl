@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 65 456 302">
+  <defs>
+    <filter id="Rectangle_Copy_4" x="109.5" y="0" width="443" height="443" filterUnits="userSpaceOnUse">
+      <feOffset dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="40" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1090" data-name="Group 1090" transform="translate(-247.5 -1073.5)">
+    <rect id="Rectangle" width="455" height="301" rx="12" transform="translate(248 1139)" fill="#fff" stroke="#d1d0d6" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="Group_56" data-name="Group 56" transform="translate(599 1171)">
+      <rect id="Rectangle-2" data-name="Rectangle" width="72" height="32" rx="2" fill="#fff" stroke="#d1d0d6" stroke-miterlimit="10" stroke-width="1"/>
+      <text id="All" transform="translate(8 21)" fill="#8e8c95" font-size="14" font-family="Aileron-Regular, Aileron" letter-spacing="0.019em"><tspan x="0" y="0">All</tspan></text>
+      <g id="Chevron_-_Right" data-name="Chevron - Right" transform="translate(64 10) rotate(90)">
+        <rect id="Rectangle-3" data-name="Rectangle" width="12" height="12" fill="none"/>
+        <path id="Chevron_-_Right-2" data-name="Chevron_-_Right" d="M0,10,5,5,0,0" transform="translate(3 1)" fill="none" stroke="#b3b1b7" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+    </g>
+    <path id="Line" d="M.5,122V0" transform="translate(343.872 1246)" fill="none" stroke="#dfe0e3" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="4 3"/>
+    <path id="Line_Copy" data-name="Line Copy" d="M.5,122V0" transform="translate(431.29 1246)" fill="none" stroke="#dfe0e3" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="4 3"/>
+    <path id="Line_Copy_2" data-name="Line Copy 2" d="M.5,122V0" transform="translate(507.124 1246)" fill="none" stroke="#dfe0e3" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="4 3"/>
+    <path id="Line_Copy_3" data-name="Line Copy 3" d="M.5,122V0" transform="translate(582.957 1246)" fill="none" stroke="#dfe0e3" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="4 3"/>
+    <path id="Line_Copy_4" data-name="Line Copy 4" d="M.5,122V0" transform="translate(661 1246)" fill="none" stroke="#dfe0e3" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="4 3"/>
+    <g id="Group_55" data-name="Group 55" transform="translate(280 1245)">
+      <g id="Group_54" data-name="Group 54" transform="translate(59)">
+        <path id="Rectangle-4" data-name="Rectangle" d="M0,0H92a2,2,0,0,1,2,2V6a2,2,0,0,1-2,2H0A0,0,0,0,1,0,8V0A0,0,0,0,1,0,0Z" fill="#9accff"/>
+        <path id="Rectangle_Copy_26" data-name="Rectangle Copy 26" d="M0,0H72a2,2,0,0,1,2,2V6a2,2,0,0,1-2,2H0A0,0,0,0,1,0,8V0A0,0,0,0,1,0,0Z" transform="translate(0 12)" fill="#d1e8ff"/>
+      </g>
+      <text id="_13-17" data-name="13-17" transform="translate(0 15)" fill="#8e8c95" font-size="12" font-family="Aileron-Bold, Aileron" font-weight="700" letter-spacing="0.019em"><tspan x="0" y="0">13-17</tspan></text>
+    </g>
+    <g id="Group_55_Copy" data-name="Group 55 Copy" transform="translate(280 1289)">
+      <g id="Group_54-2" data-name="Group 54" transform="translate(59)">
+        <path id="Rectangle-5" data-name="Rectangle" d="M0,0H315a2,2,0,0,1,2,2V6a2,2,0,0,1-2,2H0A0,0,0,0,1,0,8V0A0,0,0,0,1,0,0Z" fill="#9accff"/>
+        <path id="Rectangle_Copy_26-2" data-name="Rectangle Copy 26" d="M0,0H222a2,2,0,0,1,2,2V6a2,2,0,0,1-2,2H0A0,0,0,0,1,0,8V0A0,0,0,0,1,0,0Z" transform="translate(0 12)" fill="#d1e8ff"/>
+      </g>
+      <text id="_18-24" data-name="18-24" transform="translate(0 15)" fill="#8e8c95" font-size="12" font-family="Aileron-Bold, Aileron" font-weight="700" letter-spacing="0.019em"><tspan x="0" y="0">18-24</tspan></text>
+    </g>
+    <g id="Group_55_Copy_2" data-name="Group 55 Copy 2" transform="translate(280 1333)">
+      <g id="Group_54-3" data-name="Group 54" transform="translate(59)">
+        <path id="Rectangle-6" data-name="Rectangle" d="M0,0H172a2,2,0,0,1,2,2V6a2,2,0,0,1-2,2H0A0,0,0,0,1,0,8V0A0,0,0,0,1,0,0Z" fill="#9accff"/>
+        <path id="Rectangle_Copy_26-3" data-name="Rectangle Copy 26" d="M0,0H102a2,2,0,0,1,2,2V6a2,2,0,0,1-2,2H0A0,0,0,0,1,0,8V0A0,0,0,0,1,0,0Z" transform="translate(0 12)" fill="#d1e8ff"/>
+      </g>
+      <text id="_25-40" data-name="25-40" transform="translate(0 15)" fill="#8e8c95" font-size="12" font-family="Aileron-Bold, Aileron" font-weight="700" letter-spacing="0.019em"><tspan x="0" y="0">25-40</tspan></text>
+    </g>
+    <text id="_20" data-name="20" transform="translate(336 1388)" fill="#8e8c95" font-size="12" font-family="Aileron-Bold, Aileron" font-weight="700" letter-spacing="0.019em"><tspan x="0" y="0">20</tspan></text>
+    <text id="_40" data-name="40" transform="translate(424 1388)" fill="#8e8c95" font-size="12" font-family="Aileron-Bold, Aileron" font-weight="700" letter-spacing="0.019em"><tspan x="0" y="0">40</tspan></text>
+    <text id="_60" data-name="60" transform="translate(500 1388)" fill="#8e8c95" font-size="12" font-family="Aileron-Bold, Aileron" font-weight="700" letter-spacing="0.019em"><tspan x="0" y="0">60</tspan></text>
+    <text id="_80" data-name="80" transform="translate(576 1388)" fill="#8e8c95" font-size="12" font-family="Aileron-Bold, Aileron" font-weight="700" letter-spacing="0.019em"><tspan x="0" y="0">80</tspan></text>
+    <text id="_100" data-name="100" transform="translate(644 1388)" fill="#8e8c95" font-size="12" font-family="Aileron-Bold, Aileron" font-weight="700" letter-spacing="0.019em"><tspan x="0" y="0">100</tspan></text>
+    <text id="Audience_by_Age" data-name="Audience by Age" transform="translate(282 1188)" font-size="18" font-family="Aileron-Bold, Aileron" font-weight="700" letter-spacing="0.019em"><tspan x="0" y="0">Audience by Age</tspan></text>
+    <text id="Mar_12_-_Apr_13" data-name="Mar 12 - Apr 13" transform="translate(282 1210)" fill="#8e8c95" font-size="12" font-family="Aileron-Regular, Aileron" letter-spacing="0.019em"><tspan x="0" y="0">Mar 12 - Apr 13</tspan></text>
+    <g id="Group_43" data-name="Group 43" transform="translate(477 1163.5)">
+      <g transform="matrix(1, 0, 0, 1, -229.5, -90)" filter="url(#Rectangle_Copy_4)">
+        <rect id="Rectangle_Copy_4-2" data-name="Rectangle Copy 4" width="203" height="203" rx="16" transform="translate(229.5 90)" fill="#fff"/>
+      </g>
+      <g id="Group_12" data-name="Group 12" transform="translate(24 24.5)">
+        <g id="Group_11" data-name="Group 11">
+          <ellipse id="Oval" cx="77.5" cy="77" rx="77.5" ry="77" fill="none" stroke="#e8e7e8" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="8"/>
+          <path id="Path" d="M0,141.7A77.5,77.5,0,0,0,42.037,154c42.8,0,77.5-34.474,77.5-77s-34.7-77-77.5-77" transform="translate(35.463)" fill="none" stroke="#49a4ff" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="8"/>
+        </g>
+        <text id="_60.0_" data-name="60.0%" transform="translate(78 74)" fill="#3b3a40" font-size="26" font-family="Aileron-Heavy, Aileron" font-weight="800" letter-spacing="0.019em"><tspan x="-39.364" y="0">60.0%</tspan></text>
+        <text id="_18-24_years_old" data-name="18-24 years old" transform="translate(78 96)" fill="#8e8c95" font-size="14" font-family="Aileron-Regular, Aileron" letter-spacing="0.019em"><tspan x="-49.773" y="0">18-24 years old</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

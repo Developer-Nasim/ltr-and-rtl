@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="34.5 67.5 456 302">
+  <defs>
+    <filter id="Rectangle_Copy_4" x="0" y="0" width="440" height="413" filterUnits="userSpaceOnUse">
+      <feOffset dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="40" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1089" data-name="Group 1089" transform="translate(-256 -518)">
+    <rect id="Rectangle" width="455" height="301" rx="12" transform="translate(291 586)" fill="#fff" stroke="#d1d0d6" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="Group_37" data-name="Group 37" transform="translate(323 626)">
+      <g id="Y">
+        <g id="_1" data-name="1" transform="translate(0 228)">
+          <path id="Line" d="M0,.5H391" fill="none" stroke="#dfe0e3" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="4 3"/>
+        </g>
+        <g id="_201" data-name="201" transform="translate(0 171)">
+          <path id="Line-2" data-name="Line" d="M0,.5H391" fill="none" stroke="#dfe0e3" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="4 3"/>
+        </g>
+        <g id="_401" data-name="401" transform="translate(0 114)">
+          <path id="Line-3" data-name="Line" d="M0,.5H391" fill="none" stroke="#dfe0e3" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="4 3"/>
+        </g>
+        <g id="_601" data-name="601" transform="translate(0 57)">
+          <path id="Line-4" data-name="Line" d="M0,.5H391" fill="none" stroke="#dfe0e3" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="4 3"/>
+        </g>
+        <g id="_801" data-name="801">
+          <path id="Line-5" data-name="Line" d="M0,.5H391" fill="none" stroke="#dfe0e3" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="4 3"/>
+        </g>
+      </g>
+      <g id="Group" transform="translate(129 10)">
+        <path id="Rectangle-2" data-name="Rectangle" d="M2,0H6A2,2,0,0,1,8,2V195a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(0 24)" fill="#ffedb6"/>
+        <path id="Rectangle_Copy" data-name="Rectangle Copy" d="M2,0H6A2,2,0,0,1,8,2V219a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(12)" fill="#ffdb6e"/>
+      </g>
+      <g id="Group_Copy" data-name="Group Copy" transform="translate(13 119)">
+        <path id="Rectangle-3" data-name="Rectangle" d="M2,0H6A2,2,0,0,1,8,2V76a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(0 34)" fill="#ffedb6"/>
+        <path id="Rectangle_Copy-2" data-name="Rectangle Copy" d="M2,0H6A2,2,0,0,1,8,2V110a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(12)" fill="#ffdb6e"/>
+      </g>
+      <g id="Group_Copy_2" data-name="Group Copy 2" transform="translate(71 142)">
+        <path id="Rectangle-4" data-name="Rectangle" d="M2,0H6A2,2,0,0,1,8,2V87a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" fill="#ffedb6"/>
+        <path id="Rectangle_Copy-3" data-name="Rectangle Copy" d="M2,0H6A2,2,0,0,1,8,2V43a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(12 44)" fill="#ffdb6e"/>
+      </g>
+      <g id="Group_Copy_3" data-name="Group Copy 3" transform="translate(187 87)">
+        <path id="Rectangle-5" data-name="Rectangle" d="M2,0H6A2,2,0,0,1,8,2V142a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" fill="#ffedb6"/>
+        <path id="Rectangle_Copy-4" data-name="Rectangle Copy" d="M2,0H6A2,2,0,0,1,8,2V84a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(12 58)" fill="#ffdb6e"/>
+      </g>
+      <g id="Group_Copy_4" data-name="Group Copy 4" transform="translate(245 68)">
+        <path id="Rectangle-6" data-name="Rectangle" d="M2,0H6A2,2,0,0,1,8,2V161a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" fill="#ffedb6"/>
+        <path id="Rectangle_Copy-5" data-name="Rectangle Copy" d="M2,0H6A2,2,0,0,1,8,2V54a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(12 107)" fill="#ffdb6e"/>
+      </g>
+      <g id="Group_Copy_5" data-name="Group Copy 5" transform="translate(303 142)">
+        <path id="Rectangle-7" data-name="Rectangle" d="M2,0H6A2,2,0,0,1,8,2V87a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" fill="#ffedb6"/>
+        <path id="Rectangle_Copy-6" data-name="Rectangle Copy" d="M2,0H6A2,2,0,0,1,8,2V72a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(12 15)" fill="#ffdb6e"/>
+      </g>
+      <g id="Group_Copy_6" data-name="Group Copy 6" transform="translate(361 35)">
+        <path id="Rectangle-8" data-name="Rectangle" d="M2,0H6A2,2,0,0,1,8,2V194a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" fill="#ffedb6"/>
+        <path id="Rectangle_Copy-7" data-name="Rectangle Copy" d="M2,0H6A2,2,0,0,1,8,2V159a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(12 35)" fill="#ffdb6e"/>
+      </g>
+    </g>
+    <g id="Group_43" data-name="Group 43" transform="translate(376 608)">
+      <g transform="matrix(1, 0, 0, 1, -120, -90)" filter="url(#Rectangle_Copy_4)">
+        <rect id="Rectangle_Copy_4-2" data-name="Rectangle Copy 4" width="200" height="173" rx="16" transform="translate(120 90)" fill="#fff"/>
+      </g>
+      <text id="_78.2_" data-name="78.2%" transform="translate(100 67)" fill="#3b3a40" font-size="36" font-family="Aileron-Heavy, Aileron" font-weight="800" letter-spacing="0.019em"><tspan x="-54.504" y="0">78.2%</tspan></text>
+      <text id="Engagement" transform="translate(97 97)" fill="#8e8c95" font-size="14" font-family="Aileron-Regular, Aileron" letter-spacing="0.019em"><tspan x="-41.781" y="0">Engagement</tspan></text>
+      <g id="Group_41" data-name="Group 41" transform="translate(62 124)">
+        <g id="Group_42" data-name="Group 42">
+          <text id="_26.83_" data-name="26.83%" transform="translate(20 14)" fill="#0bad4b" font-size="14" font-family="Aileron-SemiBold, Aileron" font-weight="600" letter-spacing="0.019em"><tspan x="0" y="0">26.83%</tspan></text>
+          <g id="Chevron_-_Right" data-name="Chevron - Right" transform="translate(0 15) rotate(-90)">
+            <rect id="Rectangle-9" data-name="Rectangle" width="12" height="12" fill="none"/>
+            <path id="Chevron_-_Right-2" data-name="Chevron_-_Right" d="M0,10,5,5,0,0" transform="translate(5 1)" fill="none" stroke="#0bad4b" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+            <path id="Path_12" data-name="Path 12" d="M8,.5H0" transform="translate(1.5 5.5)" fill="none" stroke="#0bad4b" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

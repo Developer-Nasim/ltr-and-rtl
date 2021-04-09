@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="223.767" height="227.288" viewBox="0 0 223.767 227.288">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="crop" width="93" height="226" transform="translate(1675.8 3959.504) rotate(43.927)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Vector_Smart_Object" data-name="Vector Smart Object" transform="translate(-1519.014 -3959.504)" clip-path="url(#clip-path)">
+    <g id="Group_5" data-name="Group 5">
+      <path id="Path_139" data-name="Path 139" d="M1588.843,4220.934c40.732-68.453,87.212-137.6,133.8-198.611" fill="none" stroke="#fdb44b" stroke-miterlimit="10" stroke-width="1.405"/>
+      <path id="Path_140" data-name="Path 140" d="M1538.741,4211.531c40.731-68.454,107.515-130.361,129.9-218.225" fill="none" stroke="#fdb44b" stroke-miterlimit="10" stroke-width="1.405"/>
+    </g>
+  </g>
+</svg>

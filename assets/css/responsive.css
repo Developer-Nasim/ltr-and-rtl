@@ -1,0 +1,520 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .menu-area nav ul li { 
+        margin-left: 8px;
+    } 
+    .contact-area img.dotShape { 
+        right: 8%; 
+        z-index: -3;
+    }
+    .contact-area img.triangle {  
+        z-index: -2;
+        width: 100%;
+        left: -28%;
+    }
+    ul#pills-tab li button h3 {
+        font-size: 22px;
+    } 
+
+
+
+
+
+
+
+
+
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .menu-area nav ul li { 
+        margin-left: 8px;
+    } 
+    .contact-area img.dotShape { 
+        right: 8%; 
+        z-index: -3;
+    }
+    .contact-area img.triangle {  
+        z-index: -2;
+        width: 100%;
+        left: -28%;
+    }
+    ul#pills-tab li button h3 {
+        font-size: 18px;
+    } 
+    .development-area img.shape-top { 
+        top: 0%;
+        left: 0%; 
+        width: 250px;
+    }
+    body{
+        font-size: 14px;
+    }
+    .development-area img.shape-bottom { 
+        bottom: 30px;
+        right: 5%;
+        width: 150px;
+    }
+    .pricing-area img.shape-top { 
+        top: -65px;
+        left: 7%; 
+        width: 300px;
+    } 
+    .single-plan { 
+        width: 50%;  
+        border-right: 1px solid #D1D0D6;
+        border-top: 1px solid #D1D0D6;
+    }
+    .single-plan:first-child ,
+    .single-plan:nth-child(2){
+        border-top: none;
+    }
+    .pricing-area img.shape-bottom-traingle { 
+        top: 36%; 
+    } 
+    .pricing-area img.shape-bottom-dots { 
+        top: 38%;
+        right: -1%; 
+        width: 100px;
+    }
+    .pricing-area img.shape-bottom-right { 
+        top: 39%;
+        left: 5%;
+        height: 130px;
+    }
+    table tr td:first-child, table tr th:first-child {
+        width: 250px;
+    }
+    .It-area { 
+        clip-path: polygon(100% 2%,0% 0%,0% 100%,100% 100%); 
+        padding-top: 100px;
+    }
+    .It-area img.shape {
+        top: 1%;
+        left: 0%;
+        width: 200px;
+    }
+    .it-blk {
+        padding: 20px; 
+        border-radius: 30px;
+        border: 10px solid #78787808;
+        margin-top: 20px;
+    }
+    .it-section-title h1 {
+        font-size: 40px;
+    }
+    .It-area img.shape2 { 
+        right: 5%;
+        top: 7%; 
+        max-width: 200px;
+    }
+    .It-area img.roundShape { 
+        top: 40%;
+        right: 5%; 
+        max-width: 200px;
+    }
+    .roundText h1 { 
+        font-size: 25px;
+    }
+    .roundText:before { 
+        width: 300px;
+        height: 300px;    
+    }
+    .roundText:after { 
+        width: 300px;
+        height: 300px; 
+    }
+    .roundText { 
+        height: 350px; 
+    }
+    .success-team-area {
+        padding: 40px 0; 
+    }
+    .experiences h1 {
+        font-size: 32px;
+    }
+    .all-experiences {
+        margin: 20px;
+    }
+    .newslattter-wrp {
+        text-align: center;
+        margin-bottom: 30px;
+    } 
+    .section-title h2 {
+        font-size: 40px;
+    } 
+    .contact-wrp a.theme-btn { 
+        margin-right: 10px;
+        margin-top: 20px;
+        padding: 10px;
+    }
+    label { 
+        margin-top: 10px; 
+    }
+    textarea {
+        height: 100px;
+        margin-bottom: 20px;
+    }
+    .contact-area img.shape { 
+        top: 1%;
+        left: 0%; 
+        max-width: 200px;
+    }
+    .contact-wrp h2 {
+        font-size: 40px;
+    }
+    .contact-wrp {
+        margin-top: 30px;
+    }
+    .contact-area img.lineShape {
+        bottom: 21%; 
+        left: 1%; 
+    }
+    .footer-area {
+        padding: 50px 0;
+        padding-bottom: 20px;
+    }
+    .hero-wrp h1 {
+        font-size: 46px;
+        margin-bottom: 15px;
+    }
+    .bar { 
+        display: inline-block; 
+    }
+    .hero-area {
+        padding-top: 70px; 
+    }
+    .custom-order{
+        flex-wrap: nowrap;
+    }
+    .custom-order p {
+        max-width: 335px;
+        text-align: left;
+    }
+
+
+
+
+
+
+
+
+
+
+    
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    .hero-bottom { 
+        padding-top: 50px;
+    }
+    .hero-bottom img {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .menu-area nav ul li { 
+        margin-left: 8px;
+    } 
+    .contact-area img.dotShape { 
+        display: none;
+    }
+    .contact-area img.triangle {
+        z-index: -2;
+        width: 100%;
+        left: 0;
+    }
+    ul#pills-tab li button h3 {
+        font-size: 18px;
+    } 
+    .development-area img.shape-top { 
+        top: 0%;
+        left: 0%; 
+        width: 110px;
+    }
+    body{
+        font-size: 14px;
+    }
+    .development-area img.shape-bottom { 
+        display: none;
+    }
+    .pricing-area img.shape-top {
+        top: 0;
+        left: 0%;
+        width: 130px;
+    } 
+    .single-plan { 
+        width: 100%;  
+        border-right: 1px solid #D1D0D6;
+        border-top: 1px solid #D1D0D6;
+    }
+    .single-plan:first-child{
+        border-top: none;
+    }
+    .pricing-area img.shape-bottom-traingle { 
+        top: 45%; 
+    } 
+    .pricing-area img.shape-bottom-dots { 
+        top: 38%;
+        right: -1%; 
+        width: 100px;
+    }
+    .pricing-area img.shape-bottom-right { 
+        top: 39%;
+        left: 5%;
+        height: 130px;
+    }
+    table tr td:first-child, table tr th:first-child {
+        width: 210px;
+    }
+    .It-area { 
+        clip-path: polygon(100% 2%,0% 0%,0% 100%,100% 100%); 
+        padding-top: 100px;
+    }
+    .It-area img.shape {
+        top: 1%;
+        left: 0%;
+        width: 200px;
+    }
+    .it-blk {
+        padding: 20px; 
+        border-radius: 30px;
+        border: 10px solid #78787808;
+        margin-top: 20px;
+    }
+    .it-section-title h1 {
+        font-size: 32px;
+        text-align: center;
+    }
+    .it-section-title p {
+        text-align: center;
+    }
+    .It-area img.shape2 { 
+        display: none;
+    }
+    .It-area img.roundShape {
+        top: 54%;
+        right: 5%;
+        max-width: 100px;
+    }
+    .roundText h1 { 
+        font-size: 25px;
+    }
+    .roundText:before {
+        width: 250px;
+        height: 250px;
+    }
+    .roundText:after { 
+        width: 250px;
+        height: 250px; 
+    }
+    .roundText {
+        height: 350px;
+        margin-bottom: 80px;
+    }
+    .success-team-area {
+        padding: 40px 0; 
+    }
+    .experiences h1 {
+        font-size: 32px;
+    }
+    .all-experiences {
+        margin: 20px;
+    }
+    .newslattter-wrp {
+        text-align: center;
+        margin-bottom: 30px;
+    } 
+    .section-title h2 {
+        font-size: 34px;
+    } 
+    .contact-wrp a.theme-btn {
+        margin-right: 10px;
+        margin-top: 10px;
+        padding: 7px;
+        text-align: left;
+    }
+    label { 
+        margin-top: 10px; 
+    }
+    textarea {
+        height: 100px;
+        margin-bottom: 20px;
+    }
+    .contact-area img.shape {
+        top: 1%;
+        left: 0%;
+        max-width: 150px;
+    }
+    .contact-wrp h2 {
+        font-size: 40px;
+    }
+    .contact-wrp {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .contact-area img.lineShape {
+        display: none;
+    }
+    .footer-area {
+        padding: 50px 0; 
+    }
+    .hero-wrp h1 {
+        font-size: 46px;
+        margin-bottom: 15px;
+    }
+    .bar { 
+        display: inline-block; 
+    }
+    .hero-area {
+        padding-top: 70px; 
+    } 
+    .custom-order p {
+        max-width: 100%;
+        text-align: left;
+        margin: 0;
+        text-align: center;
+        margin-bottom: 15px;
+        margin-top: 10px;
+    }
+    .right-menus ul li ul { 
+        top: 50px;
+        right: -50px; 
+        width: 240px; 
+    }
+
+    .right-menus ul li ul img.upArr { 
+        top: -20px;
+        right: 48px;
+    }
+    .right-menus ul li ul li h1 { 
+        font-size: 18px; 
+    }
+    .hero-wrp h1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .bar {
+        width: 25px;
+        height: 20px; 
+        margin-right: 15px;
+    }
+    .bar a {
+        width: 25px;
+        height: 20px; 
+    }
+    .bar a span:before { 
+        bottom: 7px; 
+    }
+    .bar a span:after { 
+        bottom: -7px; 
+    }
+    .bar a span { 
+        height: 2px; 
+    }
+    .development-area {
+        padding-top: 60px;
+        padding-bottom: 40px; 
+    }
+    .section-title { 
+        padding-bottom: 30px;
+    }
+    ul#pills-tab li {
+        width: 100%;
+    }
+    ul#pills-tab li button { 
+        padding-left: 30px;
+        border-top: none;
+        border-bottom: 2px solid #D1D0D6;
+    }
+    .pricing-area img.shape-bottom { 
+        top: 0;
+        left: -70%;
+        min-width: 130%; 
+    }
+    span.withshape:before {
+        right: -10px;
+    }
+    button.plan-change-btn { 
+        margin: 0 15px; 
+    }
+    ul.planChange {
+        margin-bottom: 30px;
+    }
+    table{
+        min-width: 650px
+    }
+    .all-experiences{
+        display: block;
+        margin-top: 120px;
+    }
+    .news-lattter {
+        padding: 20px; 
+        margin-top: 30px;
+    }
+    form.newslatterform input {
+        margin-right: 0px;
+        height: 39px;
+        border-radius: 0;
+    }
+    form.newslatterform button.theme-btn {
+        padding: 8px 10px;
+        border-radius: 2px;
+    }
+    .contact-area {
+        padding: 40px 0; 
+    }
+    .contact-form { 
+        margin-top: 40px;
+    }
+    .inp-grp{
+        display: block;
+    }
+
+    .inp-grp label{
+        width: 100%;
+    }
+    .contact-form h4 {
+        font-size: 22px;
+    }
+    input, textarea { 
+        padding: 8px; 
+        border-radius: 5px;
+        margin-top: 3px;
+    }
+    textarea {
+        height: 80px;
+        margin-bottom: 20px;
+    }
+    .companys{
+        display: block;
+    }
+    .companys img {
+        display: block;
+        margin: auto;
+        margin-top: 30px;
+    }
+
+    .footer-menus ul {
+        margin-bottom: 30px;
+        width: 50%;
+    }
+    .footer-logo a {
+        width: 100%;
+        margin: 0;
+    }
+    p.copyright{
+        margin: 0;
+    }
+
+} 

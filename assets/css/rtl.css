@@ -1,0 +1,210 @@
+.pricing-area img.shape-bottom {
+  left: auto;
+  right: -55%;
+}
+.pricing-area img.shape-top {
+  left: auto;
+  right: 25%;
+  transform: rotate(90deg);
+  top: 10px;
+}
+.development-area img.shape-bottom {
+  right: auto;
+  left: 15%;
+  transform: rotateY(180deg);
+}
+
+
+.It-area {
+  clip-path: polygon(100% 0%,0% 12%,0% 100%,100% 100%);
+}
+
+.It-area img.shape {
+  left: auto;
+  right: 18%;
+  transform: rotate3d(29, 51, -72, 90deg);
+}
+
+.It-area img.shape2 {
+  right: auto;
+  left: 10%;
+}
+
+.It-area img.roundShape {
+  right: auto;
+  left: 15%;
+}
+.roundText{
+  padding-right: 70px;
+  padding-left: 0;
+}
+.roundText:before {
+  left: auto;
+  right: 30px;
+}
+.roundText::after {
+  left: auto;
+  right: 30px;
+}
+.success-wrp img {
+    left: auto;
+    transform: translateY(-50%) rotate(180deg);
+    right: 0;
+}
+.success-wrp{
+    padding-left: 60px;
+    padding-right: 0;
+}
+.experiences h1 span.withshape::before {
+    left: 0;
+    transform: translateX(-10%); 
+}
+.contact-area img.triangle {
+    left: auto;
+    right: -7%;
+}
+
+.success-wrp.aos-init.aos-animate {
+    padding-left: 50px;
+    padding-right: 0;
+}
+
+.contact-area img.triangle {
+    left: auto;
+    right: -7%;
+}
+
+.contact-area img.shape {
+    left: auto;
+    right: 11%;
+    transform: rotate(90deg);
+}
+
+.contact-area  img.dotShape {
+    right: auto;
+    left: 19%;
+}
+
+.contact-area  img.lineShape {
+    left: auto;
+    right: 15%;
+}
+.bar {
+    display: inline-block;
+    margin-right: 0;
+    margin-left: 30px;
+}
+.mobile-menu { 
+    padding: 40px;
+    padding-top: 100px;
+}
+.right-menus ul li ul {
+    right: auto;
+    left: -70px;
+}
+.right-menus ul li ul img.upArr {
+    position: absolute;
+    top: -20px;
+    right: auto;
+    left: 75px;
+}
+.development-area img.shape-top {
+    left: auto;
+    right: 15%;
+    transform: rotate(90deg); 
+}
+.pricing-area img.shape-bottom-traingle {  
+  right: auto;
+  left: -48%; 
+}
+.pricing-area img.shape-bottom-dots { 
+  right: auto; 
+  left: 18%; 
+}
+.pricing-area img.shape-bottom-right { 
+  left: auto; 
+  right: 19%; 
+}
+ 
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+  .pricing-area img.shape-bottom-traingle { 
+    top: 20%; 
+  }
+  .pricing-area img.shape-bottom-dots { 
+    left: 5%;
+}
+.pricing-area img.shape-bottom-right { 
+  right: 5%;
+}
+.pricing-area img.shape-top { 
+  right: 5%; 
+}
+
+
+
+
+
+}
+
+
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .pricing-area img.shape-top {
+        left: auto;
+        right: 15%;
+        transform: rotate(  -105deg  );
+        top: -13px;
+        max-width: 240px;
+    }
+    .It-area {
+        clip-path: polygon(100% 0%,0% 3%,0% 100%,100% 100%);
+    }
+    .contact-area img.shape { 
+        right: 0%; 
+    }
+    .pricing-area img.shape-bottom-traingle { 
+      top: 34%; 
+    }
+    .pricing-area img.shape-bottom-dots { 
+      left: 5%;
+  }
+  .pricing-area img.shape-bottom-right { 
+    right: 5%;
+  } 
+  
+  
+
+
+
+
+
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    .It-area {
+        clip-path: polygon(100% 0%,0% 2%,0% 100%,100% 100%);
+    } 
+    .pricing-area img.shape-bottom-traingle {
+      top: 48%;
+  }
+  .pricing-area img.shape-bottom-dots { 
+    top: 48%;
+} 
+
+
+} 
+
+
